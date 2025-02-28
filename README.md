@@ -1,3 +1,3 @@
 # college-demo
 this is my first repository.
-author - Tanisha
+author - Tanisha das
